@@ -1,0 +1,7 @@
+file,function,search,min,mean,max
+kroa,random_cycle,ILS1,1789.0,9974.0,18092.0
+kroa,random_cycle,ILS2_local_search,1228.0,7540.6,13971.0
+kroa,random_cycle,ILS2,6015.0,33140.8,60495.0
+krob,random_cycle,ILS1,1765.0,9762.2,17753.0
+krob,random_cycle,ILS2_local_search,1218.0,7029.6,13026.0
+krob,random_cycle,ILS2,6146.0,33057.3,60381.0

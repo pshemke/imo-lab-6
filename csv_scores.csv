@@ -1,0 +1,9 @@
+file,function,search,min,mean,max
+kroa,random_cycle,none,328834,338413,358624
+kroa,random_cycle,ILS1,32884,33302,34139
+kroa,random_cycle,ILS2_local_search,31162,32566,34301
+kroa,random_cycle,ILS2,32407,34166,37369
+krob,random_cycle,none,311141,330252,364096
+krob,random_cycle,ILS1,32898,34225,35048
+krob,random_cycle,ILS2_local_search,31933,33623,34821
+krob,random_cycle,ILS2,34220,35299,36171
